@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Gujarati-channels/static/css/main.44f8b8b5.css",
-    "main.js": "/Gujarati-channels/static/js/main.8953366f.js",
+    "main.js": "/Gujarati-channels/static/js/main.f41ad0cc.js",
     "static/js/787.998b4c01.chunk.js": "/Gujarati-channels/static/js/787.998b4c01.chunk.js",
     "index.html": "/Gujarati-channels/index.html",
     "main.44f8b8b5.css.map": "/Gujarati-channels/static/css/main.44f8b8b5.css.map",
-    "main.8953366f.js.map": "/Gujarati-channels/static/js/main.8953366f.js.map",
+    "main.f41ad0cc.js.map": "/Gujarati-channels/static/js/main.f41ad0cc.js.map",
     "787.998b4c01.chunk.js.map": "/Gujarati-channels/static/js/787.998b4c01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.8953366f.js"
+    "static/js/main.f41ad0cc.js"
   ]
 }
