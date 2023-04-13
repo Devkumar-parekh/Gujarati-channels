@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gujarati-channels/static/css/main.44f8b8b5.css",
-    "main.js": "/Gujarati-channels/static/js/main.f41ad0cc.js",
-    "static/js/787.998b4c01.chunk.js": "/Gujarati-channels/static/js/787.998b4c01.chunk.js",
+    "main.css": "/Gujarati-channels/static/css/main.756af292.css",
+    "main.js": "/Gujarati-channels/static/js/main.a6c0332e.js",
+    "static/js/787.b125aa08.chunk.js": "/Gujarati-channels/static/js/787.b125aa08.chunk.js",
     "index.html": "/Gujarati-channels/index.html",
-    "main.44f8b8b5.css.map": "/Gujarati-channels/static/css/main.44f8b8b5.css.map",
-    "main.f41ad0cc.js.map": "/Gujarati-channels/static/js/main.f41ad0cc.js.map",
-    "787.998b4c01.chunk.js.map": "/Gujarati-channels/static/js/787.998b4c01.chunk.js.map"
+    "main.756af292.css.map": "/Gujarati-channels/static/css/main.756af292.css.map",
+    "main.a6c0332e.js.map": "/Gujarati-channels/static/js/main.a6c0332e.js.map",
+    "787.b125aa08.chunk.js.map": "/Gujarati-channels/static/js/787.b125aa08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44f8b8b5.css",
-    "static/js/main.f41ad0cc.js"
+    "static/css/main.756af292.css",
+    "static/js/main.a6c0332e.js"
   ]
 }
